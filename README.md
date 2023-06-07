@@ -22,8 +22,6 @@ Use the following command in the terminal to install Luar:
 $ cargo install luar
 ```
 
-**Note: Luar is still under active development and will soon be installable using the above command.**
-
 ## Usage
 
 ### Command-line Interface
