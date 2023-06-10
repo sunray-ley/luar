@@ -4,6 +4,8 @@ version = "0.1.0"
 edition = "2021"
 description = "Luar is a Lua interpreter implemented in Rust"
 license = "MIT"
+documentation = "https://docs.rs/luar"
+repository = "https://github.com/sunray-ley/luar"
 
 [dependencies]
 ferris-says = "0.2"
