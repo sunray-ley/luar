@@ -24,6 +24,8 @@ $ cargo install luar
 
 ## Usage
 
+**NOTICE: Luar is still under active development and will soon be available.**
+
 ### Command-line Interface
 
 If you want to run an interactive Lua shell, execute the following command:
