@@ -19,7 +19,7 @@ To use Luar, you need to have Rust programming language and Cargo package manage
 Use the following command in the terminal to install Luar:
 
 ```shell
-$ cargo install luar
+cargo install luar
 ```
 
 ## Usage
@@ -31,13 +31,13 @@ $ cargo install luar
 If you want to run an interactive Lua shell, execute the following command:
 
 ```shell
-$ luar
+luar
 ```
 
 To run a Lua script, execute the following command:
 
 ```shell
-$ luar script.lua
+luar script.lua
 ```
 
 ### In Rust Applications
